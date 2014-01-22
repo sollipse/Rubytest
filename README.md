@@ -1,0 +1,1 @@
+This is a sample application by Paul Kang, made to flesh out a better understanding of the Ruby on Rails system.
