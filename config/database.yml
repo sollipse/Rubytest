@@ -6,3 +6,10 @@ development:
   username: basedgod
   password:
   min_messages: WARNING
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: blog_development
+  pool: 5
+  username: basedgod
